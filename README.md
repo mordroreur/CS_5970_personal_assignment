@@ -9,7 +9,8 @@ It takes place in a **medieval tavern environment**, allowing the player to:
 
 The goal is to demonstrate interactive physics-based mechanics in a VR medieval scene.
 
-You can see a video explanation at : https://drive.google.com/file/d/1HTD4Zon26rECmjrT__rbr8DIK9jIF2RA/view?usp=sharing
+You can see a video explanation at : 
+https://drive.google.com/file/d/1HTD4Zon26rECmjrT__rbr8DIK9jIF2RA/view?usp=sharing
 
 ---
 
